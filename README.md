@@ -9,3 +9,4 @@
 * Template Method
 * Decorator
 * State
+* Builder and Method Chaining
