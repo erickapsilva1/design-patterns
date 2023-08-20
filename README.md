@@ -10,3 +10,6 @@
 * Decorator
 * State
 * Builder and Method Chaining
+* Observer
+
+*  
