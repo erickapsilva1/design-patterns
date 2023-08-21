@@ -12,4 +12,4 @@
 * Builder and Method Chaining
 * Observer
 
-*  
+* Factory Method 
