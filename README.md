@@ -15,3 +15,4 @@
 * **Factory Method**: Defines an interface for creating objects but allows subclasses to decide which concrete classes to instantiate.
 * **Flyweight**: Efficiently shares objects to minimize memory usage, especially for repeated objects.
 * **Memento**: Captures and stores an object's internal state without violating encapsulation, allowing undo operations.
+* **Interpreter**: Provides a way to interpret languages or grammatical expressions.
