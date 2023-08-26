@@ -17,3 +17,5 @@
 * **Memento**: Captures and stores an object's internal state without violating encapsulation, allowing undo operations.
 * **Interpreter**: Provides a way to interpret languages or grammatical expressions. 
 * **Visitor**: Allows you to add new operations to objects without modifying their classes. 
+* **Bridge**: Separates abstraction from implementation, allowing both to evolve independently.
+* **Adapter**: Allows objects with incompatible interfaces to work together by providing an intermediate interface.
