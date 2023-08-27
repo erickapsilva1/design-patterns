@@ -19,3 +19,6 @@
 * **Visitor**: Allows you to add new operations to objects without modifying their classes. 
 * **Bridge**: Separates abstraction from implementation, allowing both to evolve independently.
 * **Adapter**: Allows objects with incompatible interfaces to work together by providing an intermediate interface.
+* **Command**: Encapsulates a request as an object, allowing clients to parameterize objects with different requests.
+* **Facade**: Provides a simplified interface to a set of complex interfaces. 
+* **Singleton***: Ensures a class has only one instance and provides a global point of access to that instance.
